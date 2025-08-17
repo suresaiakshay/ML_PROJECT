@@ -1,2 +1,2 @@
 # ML_PROJECT
-Predicting the House Rent before hand
+House Rent Prediction Using Machine Learning
